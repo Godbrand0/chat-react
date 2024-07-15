@@ -7,7 +7,7 @@ import { Chat } from "./components/chat";
 
 import { signOut } from "firebase/auth";
 
-import { auth } from " ./firebase-Config";
+import { auth } from "./firebase-config";
 
 const cookies = new Cookies();
 
